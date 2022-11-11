@@ -10,7 +10,7 @@ import android.widget.EditText;
 import android.widget.TextView;
 
 public class MainActivity extends AppCompatActivity {
-
+    int numero;
     private Button btn_Suma;
     private Button btn_Resta;
     private  Button btn_Producto;
